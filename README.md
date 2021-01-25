@@ -12,13 +12,13 @@ El curso Teoría de Sistemas Lineales presenta exhaustivamente importantes herra
 
 ## Información
 * **Grabación de las clases** [Enlace carpeta Drive]
-* **Telegram group:** [enlace]()
-* **Google classroom:** [enlace]()
+* **Telegram group:** [enlace](https://t.me/joinchat/GX48PL2cz6_vM3W5)
+* **Google classroom:** [enlace](https://classroom.google.com/c/MjY4MDI1NjkyODMx?cjc=rnu5peb) Código: rnu5peb
 
 ## Contenido
 
 1. **Presentación del curso *Teoría de Sistemas Lineales***
-	* Descargar presentación [PDF](https://github.com/marcoteran/machinelearning/raw/master/syllabus/00_artificialintelligence_syllabus.pdf) 
+	* Descargar presentación [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/lectures/00_linearsystemtheory_syllabus.pdf) 
 	
 
 ## Material adicional
