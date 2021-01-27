@@ -11,7 +11,7 @@ El curso Teoría de Sistemas Lineales presenta exhaustivamente importantes herra
 
 
 ## Información
-* **Grabación de las clases** [Enlace carpeta Drive]
+* **Grabación de las clases** [Enlace carpeta Drive](https://drive.google.com/drive/folders/16KWl_70-Mb1Wktx3qxcZt-w51wTjg3zY?usp=sharing)
 * **Telegram group:** [enlace](https://t.me/joinchat/GX48PL2cz6_vM3W5)
 * **Google classroom:** [enlace](https://classroom.google.com/c/MjY4MDI1NjkyODMx?cjc=rnu5peb) Código: rnu5peb
 
