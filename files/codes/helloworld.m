@@ -11,10 +11,22 @@ imshow(Idark)
 
 Irgb=imread('lena.png');
 size(Irgb)
+Ieq=Irgb;
+
+Ieq(:,:,3)=Ieq(:,:,3)+70; %BLUE
+Ieq(:,:,1)=Ieq(:,:,1)-70; %RED
+Ieq(:,:,2)=Ieq(:,:,2)+70; %RED
+
 
 Ir=Irgb(:,:,1);
 Ig=Irgb(:,:,2);
 Ib=Irgb(:,:,3);
+
+figure()
+subplot(121)
+imshow(Irgb)
+subplot(122)
+imshow(Ieq)
 
 figure()
 subplot(221)

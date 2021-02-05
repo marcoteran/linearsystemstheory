@@ -21,7 +21,8 @@ El curso Teoría de Sistemas Lineales presenta exhaustivamente importantes herra
 	* Descargar presentación [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/lectures/00_linearsystemtheory_syllabus.pdf)
 
 2. **Señales, sistemas y transformaciones**
-	* Teoría de señales y análisis de sistemas [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/lectures/01_linearsystemtheory_signaltheoryandsystems.pdf)	
+	* Teoría de señales y análisis de sistemas [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/lectures/01_linearsystemtheory_signaltheoryandsystems.pdf)
+	* Señales y transformaciones [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/lectures/02_linearsystemtheory_signalsandtransformations.pdf)
 
 ## Material adicional
 
