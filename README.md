@@ -19,7 +19,7 @@ El curso Teoría de Sistemas Lineales presenta exhaustivamente importantes herra
 
 1. **Presentación del curso *Teoría de Sistemas Lineales***
 	* Descargar presentación [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/lectures/00_linearsystemtheory_syllabus.pdf)
-		* **Taller 00:** *Taller de repaso matemático* [Descargar]()
+		- **Taller 00:** *Taller de repaso matemático* [Descargar]()
 
 2. **Señales, sistemas y transformaciones**
 	* Teoría de señales y análisis de sistemas [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/lectures/01_linearsystemtheory_signaltheoryandsystems.pdf)
