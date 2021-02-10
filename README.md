@@ -26,7 +26,9 @@ El curso Teoría de Sistemas Lineales presenta exhaustivamente importantes herra
 
 ## Material adicional
 
-* **Instalación de MATLAB licencia Multicampus** [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/files/_others/matlabwidecampus_installation.pdf) 
+* **Hoja de formulas** [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/mathsheets/mathsheetbasic.pdf)
+* **Instalación de MATLAB licencia Multicampus** [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/files/_others/matlabwidecampus_installation.pdf)
+
 
 ## Literatura
 
