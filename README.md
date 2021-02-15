@@ -23,7 +23,16 @@ El curso Teoría de Sistemas Lineales presenta exhaustivamente importantes herra
 
 2. **Señales, sistemas y transformaciones**
 	* Teoría de señales y análisis de sistemas [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/lectures/01_linearsystemtheory_signaltheoryandsystems.pdf)
+		- **Taller 01:** *Taller Teoría de señales* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/LST_TTQ_signaltheory.pdf)
 	* Señales y transformaciones [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/lectures/02_linearsystemtheory_signalsandtransformations.pdf)
+		- **Taller 02:** *Taller Transformación de señales* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/LST_TTQ_signaltransformation.pdf)
+
+## Laboratorios
+
+1. **Laboratorio 01: *Introducción a LaTeX*** [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/laboratory/LAB01_IntrotoLatex.pdf)
+
+2. **Laboratorio 02: *Introducción a Matlab*** [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/laboratory/LAB02_IntrotoMatlab.pdf)
+
 
 ## Material adicional
 
