@@ -26,11 +26,13 @@ El curso Teoría de Sistemas Lineales presenta exhaustivamente importantes herra
 		- **Taller 01:** *Taller Teoría de señales* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/LST_TTQ_signaltheory.pdf)
 	* Señales y transformaciones [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/lectures/02_linearsystemtheory_signalsandtransformations.pdf)
 		- **Taller 02:** *Taller Transformación de señales* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/LST_TTQ_signaltransformation.pdf)
+	* Propiedades, potencia y energía  [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/lectures/03_linearsystemtheory_propiertiespowerenergy.pdf)
+		- **Taller 03:** *Taller Paridad y periodicidad de señales* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/LST_TTQ_symmetryandperiodicity.pdf)
+		- **Taller 04:** *Taller Potencia y energía de señales* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/LST_TTQ_energyandpower.pdf)
 
 ## Laboratorios
 
 1. **Laboratorio 01: *Introducción a LaTeX*** [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/laboratory/LAB01_IntrotoLatex.pdf)
-
 2. **Laboratorio 02: *Introducción a Matlab*** [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/laboratory/LAB02_IntrotoMatlab.pdf)
 
 
