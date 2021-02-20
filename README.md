@@ -32,8 +32,8 @@ El curso Teoría de Sistemas Lineales presenta exhaustivamente importantes herra
 
 ## Laboratorios
 
-1. **Laboratorio 01: *Introducción a LaTeX*** [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/laboratory/LAB01_IntrotoLatex.pdf)
-2. **Laboratorio 02: *Introducción a Matlab*** [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/laboratory/LAB02_IntrotoMatlab.pdf)
+1. **Laboratorio 01: *Introducción a LaTeX*** [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/laboratory/LST_LAB01_IntrotoLatex.pdf)
+2. **Laboratorio 02: *Introducción a Matlab*** [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/laboratory/LST_LAB02_IntrotoMatlab.pdf)
 
 
 ## Material adicional
