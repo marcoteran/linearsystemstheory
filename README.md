@@ -27,16 +27,15 @@ El curso Teoría de Sistemas Lineales presenta exhaustivamente importantes herra
 	* Señales y transformaciones [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/lectures/02_linearsystemtheory_signalsandtransformations.pdf)
 		- **Taller 02:** *Transformación de señales* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/LST_TTQ_signaltransformation.pdf)
 	* Propiedades, potencia y energía  [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/lectures/03_linearsystemtheory_propiertiespowerenergy.pdf)
-		- **Taller 03:** *Paridad y periodicidad de señales* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/LST_TTQ_symmetryandperiodicity.pdf) **(*deadline:* 05.03.2021)**
-		- **Taller 04:** *Potencia y energía de señales* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/LST_TTQ_energyandpower.pdf) **(*deadline:* 05.03.2021)**
+		- **Taller 03:** *Paridad y periodicidad de señales* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/LST_TTQ_symmetryandperiodicity.pdf) <sub>**(*deadline:* 05.03.2021)**</sub>
+		- **Taller 04:** *Potencia y energía de señales* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/LST_TTQ_energyandpower.pdf) <sub>**(*deadline:* 05.03.2021)**</sub>
 
 ## Laboratorios
 
 1. **Laboratorio 01: *Introducción a LaTeX*** [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/laboratory/LST_LAB01_IntrotoLatex.pdf)  <sub>**(*deadline:* 26.02.2021)**</sub>
 2. **Laboratorio 02: *Introducción a Matlab*** [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/laboratory/LST_LAB02_IntrotoMatlab.pdf) <sub>**(*deadline:* 01.03.2021)**</sub>
-	* *Certificado Mathworks: Matlab Onramp* <sub>**(*deadline:* 08.03.2021)**</sub></font>
-	* *Certificado Mathworks: Simulink Onramp* <sub>**(<span style="color:blue">*deadline:* 08.03.2021)</span>**</sub>
-<span style="color:blue">deadline: 08.03.2021)</span>
+	* *Certificado Mathworks: Matlab Onramp* <sub>**(*deadline:* 08.03.2021)**</sub>
+	* *Certificado Mathworks: Simulink Onramp* <sub>**(*deadline:* 08.03.2021)**</sub>
 
 ## Material adicional
 
