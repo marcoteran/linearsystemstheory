@@ -35,8 +35,8 @@ El curso Teoría de Sistemas Lineales presenta exhaustivamente importantes herra
 1. **Laboratorio 01: *Introducción a LaTeX*** [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/laboratory/LST_LAB01_IntrotoLatex.pdf)  <sub>**(*deadline:* 26.02.2021)**</sub>
 2. **Laboratorio 02: *Introducción a Matlab*** [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/laboratory/LST_LAB02_IntrotoMatlab.pdf) <sub>**(*deadline:* 01.03.2021)**</sub>
 	* *Certificado Mathworks: Matlab Onramp* <sub>**(*deadline:* 08.03.2021)**</sub></font>
-	* *Certificado Mathworks: Simulink Onramp* <sub>**(*<span style="color:blue">deadline:* 08.03.2021)</span>**</sub>
-
+	* *Certificado Mathworks: Simulink Onramp* <sub>**(<span style="color:blue">*deadline:* 08.03.2021)</span>**</sub>
+<span style="color:blue">deadline: 08.03.2021)</span>
 
 ## Material adicional
 
