@@ -23,24 +23,27 @@ El curso Teoría de Sistemas Lineales presenta exhaustivamente importantes herra
 
 2. **Señales, sistemas y transformaciones**
 	* Teoría de señales y análisis de sistemas [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/lectures/01_linearsystemtheory_signaltheoryandsystems.pdf)
-		- **Taller 01:** *Taller Teoría de señales* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/LST_TTQ_signaltheory.pdf)
+		- **Taller 01:** *Teoría de señales* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/LST_TTQ_signaltheory.pdf)
 	* Señales y transformaciones [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/lectures/02_linearsystemtheory_signalsandtransformations.pdf)
-		- **Taller 02:** *Taller Transformación de señales* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/LST_TTQ_signaltransformation.pdf)
+		- **Taller 02:** *Transformación de señales* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/LST_TTQ_signaltransformation.pdf)
 	* Propiedades, potencia y energía  [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/lectures/03_linearsystemtheory_propiertiespowerenergy.pdf)
-		- **Taller 03:** *Taller Paridad y periodicidad de señales* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/LST_TTQ_symmetryandperiodicity.pdf)
-		- **Taller 04:** *Taller Potencia y energía de señales* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/LST_TTQ_energyandpower.pdf)
+		- **Taller 03:** *Paridad y periodicidad de señales* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/LST_TTQ_symmetryandperiodicity.pdf) **(*deadline:* 05.03.2021)**
+		- **Taller 04:** *Potencia y energía de señales* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/LST_TTQ_energyandpower.pdf) **(*deadline:* 05.03.2021)**
 
 ## Laboratorios
 
-1. **Laboratorio 01: *Introducción a LaTeX*** [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/laboratory/LST_LAB01_IntrotoLatex.pdf)
-2. **Laboratorio 02: *Introducción a Matlab*** [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/laboratory/LST_LAB02_IntrotoMatlab.pdf)
+1. **Laboratorio 01: *Introducción a LaTeX*** [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/laboratory/LST_LAB01_IntrotoLatex.pdf)  **(*deadline:* 26.02.2021)**
+2. **Laboratorio 02: *Introducción a Matlab*** [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/laboratory/LST_LAB02_IntrotoMatlab.pdf) **(*deadline:* 01.03.2021)**
+	* *Certificado Mathworks: Matlab Onramp* **(*deadline:* 08.03.2021)**
+	* *Certificado Mathworks: Simulink Onramp* **(*deadline:* 08.03.2021)**
+
 
 
 ## Material adicional
 
 * **Hoja de formulas** [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/mathsheets/mathsheetbasic.pdf)
 * **Instalación de MATLAB licencia Multicampus** [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/files/_others/matlabwidecampus_installation.pdf)
-
+* **Matlab Cheatsheet** [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/laboratory/introtomatlab/documentation/MatlabCheatsheet.pdf)
 
 ## Literatura
 
