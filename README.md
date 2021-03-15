@@ -30,7 +30,7 @@ El curso Teoría de Sistemas Lineales presenta exhaustivamente importantes herra
 		- **Taller 03:** *Paridad y periodicidad de señales* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/LST_TTQ_symmetryandperiodicity.pdf) <sub>**(*deadline:* 05.03.2021)**</sub>
 		- **Taller 04:** *Potencia y energía de señales* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/LST_TTQ_energyandpower.pdf) <sub>**(*deadline:* 05.03.2021)**</sub>
 
-3. **Sistemas LTI, convolución y correlacións**
+3. **Sistemas LTI, convolución y correlación**
 	* Sistemas LTI y Convolución de señales [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/lectures/04_linearsystemtheory_ltisystemsandconvolution.pdf)
 		- **Taller 05:** *Sistemas LTI* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/LST_TTQ_ltisystems.pdf) <sub>**(*deadline:* 15.03.2021)**</sub>
 
