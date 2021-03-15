@@ -32,6 +32,7 @@ El curso Teoría de Sistemas Lineales presenta exhaustivamente importantes herra
 
 3. **Sistemas LTI, convolución y correlacións**
 	* Sistemas LTI y Convolución de señales [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/lectures/04_linearsystemtheory_ltisystemsandconvolution.pdf)
+	- **Taller 05:** *Sistemas LTI* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/LST_TTQ_ltisystems.pdf) <sub>**(*deadline:* 15.03.2021)**</sub>
 
 ## Laboratorios
 
