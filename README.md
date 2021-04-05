@@ -33,6 +33,10 @@ El curso Teoría de Sistemas Lineales presenta exhaustivamente importantes herra
 3. **Sistemas LTI, convolución y correlación**
 	* Sistemas LTI y Convolución de señales [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/lectures/04_linearsystemtheory_ltisystemsandconvolution.pdf)
 		- **Taller 05:** *Sistemas LTI* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/LST_TTQ_ltisystems.pdf) <sub>**(*deadline:* 15.03.2021)**</sub>
+		- **Taller 06:** *Convolución de señales continuas* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/LST_TTQ_discreteconvolution.pdf) <sub>**(*deadline:* 12.04.2021)**</sub>
+		- **Taller 07:** *Convolución de señales discretas* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/LST_TTQ_ltisystems.pdf) <sub>**(*deadline:* 12.04.2021)**</sub>
+	* Correlación de señales [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/lectures/)
+		- **Taller 08:** *Correlación de señales* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/LST_TTQ_correlation.pdf) <sub>**(*deadline:* 16.04.2021)**</sub>
 
 ## Laboratorios
 
