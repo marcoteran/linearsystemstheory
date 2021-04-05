@@ -31,7 +31,7 @@ El curso Teoría de Sistemas Lineales presenta exhaustivamente importantes herra
 		- **Taller 04:** *Potencia y energía de señales* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/LST_TTQ_energyandpower.pdf) <sub>**(*deadline:* 05.03.2021)**</sub>
 
 3. **Sistemas LTI, convolución y correlación**
-	* Sistemas LTI y Convolución de señales [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/lectures/04_linearsystemtheory_ltisystemsandconvolution.pdf) [Example](https://github.com/marcoteran/linearsystemstheory/raw/master/lectures/04_linearsystemtheory_ltisystemsandconvolution.pdf)
+	* Sistemas LTI y Convolución de señales [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/lectures/04_linearsystemtheory_ltisystemsandconvolution.pdf) [Example](https://github.com/marcoteran/linearsystemstheory/raw/master/files/slides/04b_linearsystemtheory_convolutionoftwofunctions.pdf)
 		- **Taller 05:** *Sistemas LTI* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/LST_TTQ_ltisystems.pdf) <sub>**(*deadline:* 15.03.2021)**</sub>
 		- **Taller 06:** *Convolución de señales continuas* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/LST_TTQ_discreteconvolution.pdf) <sub>**(*deadline:* 12.04.2021)**</sub>
 		- **Taller 07:** *Convolución de señales discretas* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/LST_TTQ_ltisystems.pdf) <sub>**(*deadline:* 12.04.2021)**</sub>
