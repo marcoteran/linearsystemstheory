@@ -45,8 +45,8 @@ El curso Teoría de Sistemas Lineales presenta exhaustivamente importantes herra
 	* *Certificado Mathworks: Matlab Onramp* <sub>**(*deadline:* 08.03.2021)**</sub>
 	* *Certificado Mathworks: Simulink Onramp* <sub>**(*deadline:* 08.03.2021)**</sub>
 3. **Laboratorio 03: *Introducción a Matlab: imágenes, audio y vídeo*** [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/laboratory/LST_LAB03_IntrotoMatlabImageAudioVideo.pdf)  <sub>**(*deadline:* 14.05.2021)**</sub>
-4. **Laboratorio 04: *Convolución de señales en Matlab*** [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/laboratory/LST_LAB01_IntrotoLatex.pdf)  <sub>**(*deadline:* 19.05.2021)**</sub>
-5. **Laboratorio 05: *Correlación de señales en Matlab*** [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/laboratory/LST_LAB01_IntrotoLatex.pdf)  <sub>**(*deadline:* 26.05.2021)**</sub>
+4. **Laboratorio 04: *Convolución de señales en Matlab*** [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/laboratory/LST_LAB04_SignalConvolution.pdf)  <sub>**(*deadline:* 19.05.2021)**</sub>
+5. **Laboratorio 05: *Correlación de señales en Matlab*** [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/laboratory/LST_LAB05_SignalCorrelation.pdf)  <sub>**(*deadline:* 26.05.2021)**</sub>
 
 
 ## Material adicional
