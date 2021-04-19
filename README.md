@@ -38,6 +38,10 @@ El curso Teoría de Sistemas Lineales presenta exhaustivamente importantes herra
 	* Correlación de señales [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/lectures/05_linearsystemtheory_correlation.pdf)
 		- **Taller 08:** *Correlación de señales* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/LST_TTQ_correlation.pdf) <sub>**(*deadline:* 16.04.2021)**</sub>
 
+3. **Análisis en el dominio de la frecuencia**
+	* Series de Fourier [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/lectures/06_linearsystemtheory_fourierseries.pdf)
+
+
 ## Laboratorios
 
 1. **Laboratorio 01: *Introducción a LaTeX*** [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/laboratory/LST_LAB01_IntrotoLatex.pdf)  <sub>**(*deadline:* 26.02.2021)**</sub>
