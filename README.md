@@ -40,6 +40,8 @@ El curso Teoría de Sistemas Lineales presenta exhaustivamente importantes herra
 
 3. **Análisis en el dominio de la frecuencia**
 	* Series de Fourier [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/lectures/06_linearsystemtheory_fourierseries.pdf)
+		- **Taller 09:** *Series de Fourier de tiempo continuo* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/LST_TTQ_continuousfourierseries.pdf) <sub>**(*deadline:* 28.04.2021)**</sub>
+		- **Taller 10:** *Series de Fourier de tiempo discreto* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/LST_TTQ_discretefourierseries.pdf) <sub>**(*deadline:* 28.04.2021)**</sub>
 
 
 ## Laboratorios
@@ -49,8 +51,8 @@ El curso Teoría de Sistemas Lineales presenta exhaustivamente importantes herra
 	* *Certificado Mathworks: Matlab Onramp* <sub>**(*deadline:* 08.03.2021)**</sub>
 	* *Certificado Mathworks: Simulink Onramp* <sub>**(*deadline:* 08.03.2021)**</sub>
 3. **Laboratorio 03: *Introducción a Matlab: imágenes, audio y vídeo*** [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/laboratory/LST_LAB03_IntrotoMatlabImageAudioVideo.pdf)  <sub>**(*deadline:* 14.05.2021)**</sub>
-4. **Laboratorio 04: *Convolución de señales en Matlab*** [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/laboratory/LST_LAB04_SignalConvolution.pdf)  <sub>**(*deadline:* 19.05.2021)**</sub>
-5. **Laboratorio 05: *Correlación de señales en Matlab*** [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/laboratory/LST_LAB05_SignalCorrelation.pdf)  <sub>**(*deadline:* 26.05.2021)**</sub>
+4. **Laboratorio 04: *Convolución de señales en Matlab*** [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/laboratory/LST_LAB04_SignalConvolution.pdf)  <sub>**(*deadline:* 19.04.2021)**</sub>
+5. **Laboratorio 05: *Correlación de señales en Matlab*** [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/laboratory/LST_LAB05_SignalCorrelation.pdf)  <sub>**(*deadline:* 26.04.2021)**</sub>
 
 
 ## Material adicional
