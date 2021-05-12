@@ -43,8 +43,8 @@ El curso Teoría de Sistemas Lineales presenta exhaustivamente importantes herra
 		- **Taller 09:** *Series de Fourier de tiempo continuo* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/LST_TTQ_continuousfourierseries.pdf) <sub>**(*deadline:* 28.04.2021)**</sub>
 		- **Taller 10:** *Series de Fourier de tiempo discreto* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/LST_TTQ_discretefourierseries.pdf) <sub>**(*deadline:* 28.04.2021)**</sub>
 	* Transformada de Fourier [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/lectures/07_fouriertransform.pdf)
+		* **Tabla** Propiedades de la Transformada de Fourier [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/mathsheets/refcard_fourierpropierties.pdf)
 		- **Taller 11:** *Transformada de Fourier de tiempo continuo* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/LST_TTQ_continuousfouriertransform.pdf) <sub>**(*deadline:* 17.05.2021)**</sub>
-		- **Taller 12:** *Transformada de Fourier de tiempo discreto* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/LST_TTQ_discretefouriertransform.pdf) <sub>**(*deadline:* 17.05.2021)**</sub>
 		- **Taller 12:** *Problema de la Transformada de Fourier* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/LST_TTQ_fourierproblem.pdf) <sub>**(*deadline:* 17.05.2021)**</sub>
 
 
