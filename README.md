@@ -38,7 +38,7 @@ El curso Teoría de Sistemas Lineales presenta exhaustivamente importantes herra
 	* Correlación de señales [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/lectures/05_linearsystemtheory_correlation.pdf)
 		- **Taller 08:** *Correlación de señales* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/LST_TTQ_correlation.pdf) <sub>**(*deadline:* 16.04.2021)**</sub>
 
-3. **Análisis en el dominio de la frecuencia**
+4. **Análisis en el dominio de la frecuencia**
 	* Series de Fourier [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/lectures/06_linearsystemtheory_fourierseries.pdf)
 		- **Taller 09:** *Series de Fourier de tiempo continuo* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/LST_TTQ_continuousfourierseries.pdf) <sub>**(*deadline:* 28.04.2021)**</sub>
 		- **Taller 10:** *Series de Fourier de tiempo discreto* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/LST_TTQ_discretefourierseries.pdf) <sub>**(*deadline:* 28.04.2021)**</sub>
@@ -59,6 +59,7 @@ El curso Teoría de Sistemas Lineales presenta exhaustivamente importantes herra
 3. **Laboratorio 03: *Introducción a Matlab: imágenes, audio y vídeo*** [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/laboratory/LST_LAB03_IntrotoMatlabImageAudioVideo.pdf)  <sub>**(*deadline:* 14.05.2021)**</sub>
 4. **Laboratorio 04: *Convolución de señales en Matlab*** [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/laboratory/LST_LAB04_SignalConvolution.pdf)  <sub>**(*deadline:* 19.04.2021)**</sub>
 5. **Laboratorio 05: *Correlación de señales en Matlab*** [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/laboratory/LST_LAB05_SignalCorrelation.pdf)  <sub>**(*deadline:* 26.04.2021)**</sub>
+5. **Laboratorio 06: *Análisis de Fourier en Matlab*** [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/laboratory/LST_LAB06_fourieranalysis.pdf)  <sub>**(*deadline:* 21.05.2021)**</sub>
 
 
 ## Material adicional
