@@ -47,9 +47,12 @@ El curso Teoría de Sistemas Lineales presenta exhaustivamente importantes herra
 		- **Taller 11:** *Transformada de Fourier de tiempo continuo* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/LST_TTQ_continuousfouriertransform.pdf) <sub>**(*deadline:* 17.05.2021)**</sub>
 		- **Taller 12:** *Transformada de Fourier de tiempo discreto* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/LST_TTQ_discretefouriertransform.pdf) <sub>**(*deadline:* 17.05.2021)**</sub>
 		- **Taller 13:** *Problema de la Transformada de Fourier* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/LST_TTQ_fourierproblem.pdf) <sub>**(*deadline:* 17.05.2021)**</sub>
-	* Transformada de Fourier [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/lectures/08_laplacetransform.pdf)
-		* *Tabla* Propiedades de la Transformada de Fourier [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/mathsheets/refcard_laplace.pdf)
-	
+
+5. **Análisis de Laplace**
+	* Transformada de Laplace [PDF](https://github.com/marcoteran/linearsystemstheory/raw/master/lectures/08_laplacetransform.pdf)
+		* *Tabla* Transformada de Laplace [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/mathsheets/refcard_laplace.pdf)
+		- **Taller 14:** *Transformada de Laplace* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/LST_TTQ_laplacetransform.pdf) <sub>**(*deadline:* 31.05.2021)**</sub>
+		- **Taller 15:** *Problema de la Transformada de Laplace* [Descargar](https://github.com/marcoteran/linearsystemstheory/raw/master/homeworks/LST_TTQ_laplacetransformproblem.pdf) <sub>**(*deadline:* 31.05.2021)**</sub>
 
 
 ## Laboratorios
